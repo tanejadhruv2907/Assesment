@@ -1,0 +1,75 @@
+E:\source\RamsoftAssesment\bin\Debug\net8.0\appsettings.Development.json
+E:\source\RamsoftAssesment\bin\Debug\net8.0\appsettings.json
+E:\source\RamsoftAssesment\bin\Debug\net8.0\RamsoftAssesment.exe
+E:\source\RamsoftAssesment\bin\Debug\net8.0\RamsoftAssesment.deps.json
+E:\source\RamsoftAssesment\bin\Debug\net8.0\RamsoftAssesment.runtimeconfig.json
+E:\source\RamsoftAssesment\bin\Debug\net8.0\RamsoftAssesment.dll
+E:\source\RamsoftAssesment\bin\Debug\net8.0\RamsoftAssesment.pdb
+E:\source\RamsoftAssesment\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\source\RamsoftAssesment\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\source\RamsoftAssesment\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\source\RamsoftAssesment\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\source\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.csproj.AssemblyReference.cache
+E:\source\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.AssemblyInfoInputs.cache
+E:\source\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.AssemblyInfo.cs
+E:\source\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.csproj.CoreCompileInputs.cache
+E:\source\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.MvcApplicationPartsAssemblyInfo.cs
+E:\source\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.MvcApplicationPartsAssemblyInfo.cache
+E:\source\RamsoftAssesment\obj\Debug\net8.0\staticwebassets.build.json
+E:\source\RamsoftAssesment\obj\Debug\net8.0\staticwebassets.development.json
+E:\source\RamsoftAssesment\obj\Debug\net8.0\staticwebassets\msbuild.RamsoftAssesment.Microsoft.AspNetCore.StaticWebAssets.props
+E:\source\RamsoftAssesment\obj\Debug\net8.0\staticwebassets\msbuild.build.RamsoftAssesment.props
+E:\source\RamsoftAssesment\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RamsoftAssesment.props
+E:\source\RamsoftAssesment\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RamsoftAssesment.props
+E:\source\RamsoftAssesment\obj\Debug\net8.0\staticwebassets.pack.json
+E:\source\RamsoftAssesment\obj\Debug\net8.0\scopedcss\bundle\RamsoftAssesment.styles.css
+E:\source\RamsoftAssesment\obj\Debug\net8.0\RamsoftA.E1B76189.Up2Date
+E:\source\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.dll
+E:\source\RamsoftAssesment\obj\Debug\net8.0\refint\RamsoftAssesment.dll
+E:\source\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.pdb
+E:\source\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.genruntimeconfig.cache
+E:\source\RamsoftAssesment\obj\Debug\net8.0\ref\RamsoftAssesment.dll
+E:\source\RamsoftAssesment\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\source\RamsoftAssesment\bin\Debug\net8.0\DatabaseImplementation.dll
+E:\source\RamsoftAssesment\bin\Debug\net8.0\LogicalImplementation.dll
+E:\source\RamsoftAssesment\bin\Debug\net8.0\DatabaseImplementation.pdb
+E:\source\RamsoftAssesment\bin\Debug\net8.0\LogicalImplementation.pdb
+E:\source\API code\RamsoftAssesment\bin\Debug\net8.0\appsettings.Development.json
+E:\source\API code\RamsoftAssesment\bin\Debug\net8.0\appsettings.json
+E:\source\API code\RamsoftAssesment\bin\Debug\net8.0\RamsoftAssesment.exe
+E:\source\API code\RamsoftAssesment\bin\Debug\net8.0\RamsoftAssesment.deps.json
+E:\source\API code\RamsoftAssesment\bin\Debug\net8.0\RamsoftAssesment.runtimeconfig.json
+E:\source\API code\RamsoftAssesment\bin\Debug\net8.0\RamsoftAssesment.dll
+E:\source\API code\RamsoftAssesment\bin\Debug\net8.0\RamsoftAssesment.pdb
+E:\source\API code\RamsoftAssesment\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\source\API code\RamsoftAssesment\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\source\API code\RamsoftAssesment\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\source\API code\RamsoftAssesment\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\source\API code\RamsoftAssesment\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\source\API code\RamsoftAssesment\bin\Debug\net8.0\DatabaseImplementation.dll
+E:\source\API code\RamsoftAssesment\bin\Debug\net8.0\LogicalImplementation.dll
+E:\source\API code\RamsoftAssesment\bin\Debug\net8.0\DatabaseImplementation.pdb
+E:\source\API code\RamsoftAssesment\bin\Debug\net8.0\LogicalImplementation.pdb
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.csproj.AssemblyReference.cache
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.AssemblyInfoInputs.cache
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.AssemblyInfo.cs
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.csproj.CoreCompileInputs.cache
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.MvcApplicationPartsAssemblyInfo.cs
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.MvcApplicationPartsAssemblyInfo.cache
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.sourcelink.json
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\staticwebassets.build.json
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\staticwebassets.development.json
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\staticwebassets\msbuild.RamsoftAssesment.Microsoft.AspNetCore.StaticWebAssets.props
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\staticwebassets\msbuild.build.RamsoftAssesment.props
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RamsoftAssesment.props
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RamsoftAssesment.props
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\staticwebassets.pack.json
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\scopedcss\bundle\RamsoftAssesment.styles.css
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\RamsoftA.E1B76189.Up2Date
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.dll
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\refint\RamsoftAssesment.dll
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.pdb
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\RamsoftAssesment.genruntimeconfig.cache
+E:\source\API code\RamsoftAssesment\obj\Debug\net8.0\ref\RamsoftAssesment.dll
