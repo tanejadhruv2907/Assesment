@@ -1,0 +1,24 @@
+E:\source\DatabaseImplementation\bin\Debug\net8.0\DatabaseImplementation.deps.json
+E:\source\DatabaseImplementation\bin\Debug\net8.0\DatabaseImplementation.dll
+E:\source\DatabaseImplementation\bin\Debug\net8.0\DatabaseImplementation.pdb
+E:\source\DatabaseImplementation\obj\Debug\net8.0\DatabaseImplementation.csproj.AssemblyReference.cache
+E:\source\DatabaseImplementation\obj\Debug\net8.0\DatabaseImplementation.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\DatabaseImplementation\obj\Debug\net8.0\DatabaseImplementation.AssemblyInfoInputs.cache
+E:\source\DatabaseImplementation\obj\Debug\net8.0\DatabaseImplementation.AssemblyInfo.cs
+E:\source\DatabaseImplementation\obj\Debug\net8.0\DatabaseImplementation.csproj.CoreCompileInputs.cache
+E:\source\DatabaseImplementation\obj\Debug\net8.0\DatabaseImplementation.dll
+E:\source\DatabaseImplementation\obj\Debug\net8.0\refint\DatabaseImplementation.dll
+E:\source\DatabaseImplementation\obj\Debug\net8.0\DatabaseImplementation.pdb
+E:\source\DatabaseImplementation\obj\Debug\net8.0\ref\DatabaseImplementation.dll
+E:\source\API code\DatabaseImplementation\bin\Debug\net8.0\DatabaseImplementation.deps.json
+E:\source\API code\DatabaseImplementation\bin\Debug\net8.0\DatabaseImplementation.dll
+E:\source\API code\DatabaseImplementation\bin\Debug\net8.0\DatabaseImplementation.pdb
+E:\source\API code\DatabaseImplementation\obj\Debug\net8.0\DatabaseImplementation.csproj.AssemblyReference.cache
+E:\source\API code\DatabaseImplementation\obj\Debug\net8.0\DatabaseImplementation.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\API code\DatabaseImplementation\obj\Debug\net8.0\DatabaseImplementation.AssemblyInfoInputs.cache
+E:\source\API code\DatabaseImplementation\obj\Debug\net8.0\DatabaseImplementation.AssemblyInfo.cs
+E:\source\API code\DatabaseImplementation\obj\Debug\net8.0\DatabaseImplementation.csproj.CoreCompileInputs.cache
+E:\source\API code\DatabaseImplementation\obj\Debug\net8.0\DatabaseImplementation.dll
+E:\source\API code\DatabaseImplementation\obj\Debug\net8.0\refint\DatabaseImplementation.dll
+E:\source\API code\DatabaseImplementation\obj\Debug\net8.0\DatabaseImplementation.pdb
+E:\source\API code\DatabaseImplementation\obj\Debug\net8.0\ref\DatabaseImplementation.dll

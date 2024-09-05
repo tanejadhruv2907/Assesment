@@ -1,0 +1,30 @@
+E:\source\LogicalImplementation\bin\Debug\net8.0\LogicalImplementation.deps.json
+E:\source\LogicalImplementation\bin\Debug\net8.0\LogicalImplementation.dll
+E:\source\LogicalImplementation\bin\Debug\net8.0\LogicalImplementation.pdb
+E:\source\LogicalImplementation\bin\Debug\net8.0\DatabaseImplementation.dll
+E:\source\LogicalImplementation\bin\Debug\net8.0\DatabaseImplementation.pdb
+E:\source\LogicalImplementation\obj\Debug\net8.0\LogicalImplementation.csproj.AssemblyReference.cache
+E:\source\LogicalImplementation\obj\Debug\net8.0\LogicalImplementation.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\LogicalImplementation\obj\Debug\net8.0\LogicalImplementation.AssemblyInfoInputs.cache
+E:\source\LogicalImplementation\obj\Debug\net8.0\LogicalImplementation.AssemblyInfo.cs
+E:\source\LogicalImplementation\obj\Debug\net8.0\LogicalImplementation.csproj.CoreCompileInputs.cache
+E:\source\LogicalImplementation\obj\Debug\net8.0\LogicalI.484D3EB9.Up2Date
+E:\source\LogicalImplementation\obj\Debug\net8.0\LogicalImplementation.dll
+E:\source\LogicalImplementation\obj\Debug\net8.0\refint\LogicalImplementation.dll
+E:\source\LogicalImplementation\obj\Debug\net8.0\LogicalImplementation.pdb
+E:\source\LogicalImplementation\obj\Debug\net8.0\ref\LogicalImplementation.dll
+E:\source\API code\LogicalImplementation\bin\Debug\net8.0\LogicalImplementation.deps.json
+E:\source\API code\LogicalImplementation\bin\Debug\net8.0\LogicalImplementation.dll
+E:\source\API code\LogicalImplementation\bin\Debug\net8.0\LogicalImplementation.pdb
+E:\source\API code\LogicalImplementation\bin\Debug\net8.0\DatabaseImplementation.dll
+E:\source\API code\LogicalImplementation\bin\Debug\net8.0\DatabaseImplementation.pdb
+E:\source\API code\LogicalImplementation\obj\Debug\net8.0\LogicalImplementation.csproj.AssemblyReference.cache
+E:\source\API code\LogicalImplementation\obj\Debug\net8.0\LogicalImplementation.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\API code\LogicalImplementation\obj\Debug\net8.0\LogicalImplementation.AssemblyInfoInputs.cache
+E:\source\API code\LogicalImplementation\obj\Debug\net8.0\LogicalImplementation.AssemblyInfo.cs
+E:\source\API code\LogicalImplementation\obj\Debug\net8.0\LogicalImplementation.csproj.CoreCompileInputs.cache
+E:\source\API code\LogicalImplementation\obj\Debug\net8.0\LogicalI.484D3EB9.Up2Date
+E:\source\API code\LogicalImplementation\obj\Debug\net8.0\LogicalImplementation.dll
+E:\source\API code\LogicalImplementation\obj\Debug\net8.0\refint\LogicalImplementation.dll
+E:\source\API code\LogicalImplementation\obj\Debug\net8.0\LogicalImplementation.pdb
+E:\source\API code\LogicalImplementation\obj\Debug\net8.0\ref\LogicalImplementation.dll
